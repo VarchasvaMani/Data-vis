@@ -125,6 +125,6 @@ in the same directory as the notebook.
 
 ---
 
-## 📄 License
+## 👤 Author
 
-This project is open source and available under the [MIT License](LICENSE).
+**Varchasva Mani**
