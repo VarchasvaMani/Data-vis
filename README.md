@@ -57,7 +57,7 @@ pip install pandas matplotlib ipywidgets openpyxl xlrd
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/data-vis.git
+   git clone https://github.com/VarchasvaMani/data-vis.git
    cd data-vis
    ```
 
